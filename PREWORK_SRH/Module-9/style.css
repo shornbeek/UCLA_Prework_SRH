@@ -1,0 +1,58 @@
+
+ 
+ 
+.styledFont {
+  color: purple;
+  font-size: 22px;
+  padding: 5px;
+}
+
+
+#styledImage {
+  border-style: double;
+  color: black;
+  border-width: 20px;
+}
+
+
+.center {
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.big {
+  font-size: 32px
+}
+
+.tiny {
+  font-size: 12px
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.font {
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique
+}
+
+.many {
+  font-size: 32px;
+  color: blue;
+  text-align: right;
+
+}
+  
+

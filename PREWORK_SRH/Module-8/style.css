@@ -1,0 +1,41 @@
+<style>
+  
+   .white-box {
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    width: 90%;
+  }
+.black-border {
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+  }
+    li {
+    font-family: Arial;
+  }
+  
+  .gray-background {
+  background-color: #e6e6e6;
+}
+  h1 {
+    padding: 20px;
+  }
+  .red {
+  color: #ff0000;
+  }
+  .pad {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  .pad2 {
+    margin-bottom: 50px;
+  }
+  
+  .container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+  
+</style>
